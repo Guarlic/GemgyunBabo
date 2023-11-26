@@ -1,0 +1,10 @@
+name: GemgyunBabo
+version: '${version}'
+main: io.github.sojakstudio.gemgyunbabo.GemgyunBabo
+api-version: 1.20
+commands:
+  trash:
+    usage: '/trash'
+  announce:
+    usage: '/announce'
+    permission: op
